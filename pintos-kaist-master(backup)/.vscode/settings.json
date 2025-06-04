@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "syscall-nr.h": "c",
+        "vm.h": "c",
+        "unordered_map": "c",
+        "intrinsic.h": "c",
+        "process.h": "c",
+        "fixed_point.h": "c",
+        "sstream": "c",
+        "stdbool.h": "c"
+    }
+}
